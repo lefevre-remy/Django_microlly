@@ -1,3 +1,3 @@
 # Django_microlly
 
-pip3 install --user django-crispy-forms
+pip install --user django-crispy-forms
